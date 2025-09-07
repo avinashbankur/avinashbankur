@@ -32,7 +32,7 @@
 ---
 
 📜 Certificates & Resume
-- 📄 [My Resume](https://drive.google.com/file/d/1s-YQ_IhkfYmwZZ2CtDjlOF7gHADSLW0L/view?usp=sharing)
+- 📄 [My Resume]([https://drive.google.com/file/d/1s-YQ_IhkfYmwZZ2CtDjlOF7gHADSLW0L/view?usp=sharing](https://drive.google.com/file/d/1BEAOlUGPgyX2zYKBiFlV9pi5JbvAwhIk/view?usp=sharing))
 - 🎓 [Certificates Folder](https://drive.google.com/drive/folders/1WwEM2SMjkL29jhPu1d1CwESbNX2eIZU3?usp=sharing)
 
 ---

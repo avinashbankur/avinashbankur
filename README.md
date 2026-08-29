@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi there! 🚀
+#  Hi there! 
 ## I'm Avinash Bankur
 
 **VLSI Design Engineer** • **RTL & ASIC** • **AI/ML** • **Python** • **Embedded Systems**

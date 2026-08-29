@@ -217,18 +217,30 @@ Python • OOP • JSON • File Handling
 | 🔌 IoT Intern | **Glowlogics Solutions Pvt. Ltd.** | Feb 2026 – May 2026 |
 
 ---
+---
 
 # 📈 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=avinashbankur&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img
+  src="https://github-readme-stats-fast.vercel.app/api?username=avinashbankur&show_icons=true&theme=tokyonight&hide_border=true"
+  height="180"
+  alt="Avinash's GitHub Stats"
+/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinashbankur&layout=compact&theme=tokyonight&hide_border=true"/>
+<img
+  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=avinashbankur&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  height="180"
+  alt="Top Languages"
+/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=avinashbankur&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img
+  src="https://streak-stats.demolab.com/?user=avinashbankur&theme=tokyonight&hide_border=true"
+  alt="GitHub Streak"
+/>
 
 </div>
 

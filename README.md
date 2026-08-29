@@ -1,82 +1,153 @@
-👋 Hi, I’m Avinash Bankur  
-
-🎓 Final-Year Electronics & Communication Engineering Student @ Bearys Institute of Technology (2022–2026)  
-💡 Specializing in AI, IoT & Embedded Systems with real-time system development experience  
-⚡ Passionate about building intelligent, hardware-integrated solutions for real-world problems  
-
+<div align="center">
+👋 Hi there! 🚀
+I'm Avinash Bankur
+`VLSI Design Engineer` • `RTL & ASIC` • `AI/ML` • `Python` • `Embedded Systems`
+<p>
+  <a href="https://github.com/avinashbankur">
+    <img src="https://komarev.com/ghpvc/?username=avinashbankur&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Profile views">
+  </a>
+  <a href="https://github.com/avinashbankur">
+    <img src="https://img.shields.io/github/followers/avinashbankur?label=FOLLOWERS&style=flat&logo=github" alt="GitHub followers">
+  </a>
+  <a href="https://www.linkedin.com/in/avinash-bankur-664a712b5">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:avinashbankur48@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+<p>
+  <b>Electronics & Communication Engineering Graduate</b> • <b>CGPA: 8.2/10</b>
+</p>
+</div>
 ---
-
-## 🔧 Technical Skills
-
-- **Programming:** Python, C++, Verilog  
-- **IoT & Embedded:** Arduino, ESP32, Raspberry Pi  
-- **Tools & Platforms:** Cadence Virtuoso, Keil, Proteus, Git, GitHub, VS Code, Kaggle  
-- **Domains:** IoT, VLSI Design, Communication Systems, Analog & Digital Circuits  
-
+👨‍💻 About Me
+🔲 Interested in RTL Design, VLSI Physical Design, ASIC & Design Verification
+🤖 Hands-on experience in AI/ML, Computer Vision & Edge AI
+🐍 Experienced with Python, Data Processing & Automation
+🔌 Built real-time Embedded & IoT systems
+🏭 Worked with RTL-to-GDSII implementation using OpenLane/OpenROAD & SKY130
+⚡ I enjoy turning ideas into working hardware + software solutions
+> **Hardware × Software × AI**
 ---
-
-## 🚀 Projects
-
-- **ML-Based Face Detection & Authorization System**  
-  Built a biometric verification system with deepfake classification using structured datasets.  
-  *Tech:* Python, TensorFlow Lite, OpenCV, FaceForensics++, IRIS  
-
-- **GPS Vehicle Accident Detection System**  
-  Arduino-based system that detects collisions and sends real-time alerts with location.  
-  *Tech:* Arduino, GPS, GSM, Sensors  
-
-- **GUARDIA – Women’s Safety Robot**  
-  IoT-based safety robot with real-time threat detection, GPS tracking, and automated alerts.  
-  *Tech:* Raspberry Pi, Python, IoT, Sensors, GPS, GSM  
-
-- **Verilog Serial Pattern Detector**  
-  FSM-based digital system for detecting predefined bit patterns in serial input streams.  
-  *Tech:* Verilog HDL, RTL Design  
-
-- **Command-Line Banking System**  
-  CLI application for account management and transactions with file-based persistence.  
-  *Tech:* Python, OOP, File Handling  
-
+🧰 Languages & Tools
+🔲 VLSI / Digital Design
+<p>
+<img src="https://img.shields.io/badge/Verilog-000000?style=for-the-badge&logo=verilog&logoColor=white">
+<img src="https://img.shields.io/badge/RTL%20Design-5C2D91?style=for-the-badge">
+<img src="https://img.shields.io/badge/OpenLane-1F425F?style=for-the-badge">
+<img src="https://img.shields.io/badge/OpenROAD-2C3E50?style=for-the-badge">
+<img src="https://img.shields.io/badge/SKY130-444444?style=for-the-badge">
+<img src="https://img.shields.io/badge/STA-8E44AD?style=for-the-badge">
+</p>
+💻 Programming
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,linux,git,github,vscode" />
+</p>
+🤖 AI / Data Science
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" />
+</p>
+`Machine Learning` `Computer Vision` `Deepfake Classification` `Pandas` `NumPy` `Matplotlib` `Seaborn` `SQL` `Power BI`
+🔌 Embedded & IoT
+<p>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+</p>
+`Arduino` `ESP32` `Raspberry Pi` `Sensors` `GPS` `GSM` `Embedded C`
 ---
-
-## 💼 Experience
-
-- **VLSI Intern – SURE TRUST (Nov 2025 – Present)**  
-  Working on digital design, simulation, and FPGA prototyping using Verilog and EDA tools  
-
-- **Python with Data Science Intern – Qspiders (Feb 2026 – Present)**  
-  Developing Python scripts for data processing, debugging, and automation  
-
-- **IoT Intern – Glowlogics Solutions Pvt Ltd (Feb 2026 – Present)**  
-  Building IoT applications with real-time data acquisition using sensors and embedded systems  
-
+🚀 Featured Projects
+<table>
+<tr>
+<td width="50%">
+🏭 PicoRV32 RISC-V
+RTL-to-GDSII Physical Design
+Implemented an ASIC physical design flow for a PicoRV32 RISC-V processor.
+`Synthesis` → `Floorplanning` → `Placement` → `CTS` → `Routing` → `STA`
+Tech: OpenLane • OpenROAD • SKY130 • LEF/DEF
+</td>
+<td width="50%">
+🤖 Face Detection & Authorization
+ML + Computer Vision
+Developed a machine-learning-based biometric authorization system with deepfake classification.
+Tech: Python • TensorFlow Lite • OpenCV • FaceForensics++ • IRIS
+</td>
+</tr>
+<tr>
+<td width="50%">
+🛡️ GUARDIA
+Women's Safety Robot
+Raspberry Pi-based IoT safety robot for real-time threat detection, GPS tracking and emergency alerts.
+Tech: Raspberry Pi • Python • GPS • GSM • Sensors
+</td>
+<td width="50%">
+🚗 GPS Accident Detection
+Arduino + IoT
+Built a collision detection system that automatically sends real-time alerts with location details.
+Tech: Arduino • GPS • GSM • Sensors
+</td>
+</tr>
+<tr>
+<td width="50%">
+📊 E-Commerce & Flight Analytics
+Data Science
+Performed data cleaning, preprocessing, EDA, feature engineering, outlier and correlation analysis.
+Tech: Python • Pandas • NumPy • Matplotlib • Seaborn
+</td>
+<td width="50%">
+🐍 Python OOP Projects
+CLI Applications
+Built Library Management and Banking Management applications using OOP and persistent file-based data.
+Tech: Python • OOP • JSON • File Handling
+</td>
+</tr>
+</table>
 ---
-
-## 📜 Certifications
-
-- Infosys SpringBoard – Python, IoT 201, C++, OpenAI GPT-4  
-- Maven Silicon – Embedded Systems (C), VLSI SoC (Verilog)  
-
+💼 Experience
+Role	Organization	Duration
+🔲 Integrated VLSI Intern	SURE TRUST	Nov 2025 – Aug 2026
+🐍 Python with Data Science Intern	Qspiders	Feb 2026 – Present
+🐍 Python Developer Intern	Unified Mentor	Nov 2025 – Feb 2026
+🔌 IoT Intern	Glowlogics Solutions Pvt. Ltd.	Feb 2026 – May 2026
 ---
-
-## 🎯 Additional Info
-
-- **Languages:** English, Kannada, Telugu, Hindi  
-- **Activities:**  
-  - Event Lead – Project Spark 2025  
-  - Workshops: IoT, Mind to Machine, Virtual Labs  
-  - GDG Drone & Glider Workshop Participant  
-
+📈 GitHub Stats
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=avinashbankur&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinashbankur&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+<div align="center">
+<img src="https://streak-stats.demolab.com/?user=avinashbankur&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
 ---
-
-## 📊 GitHub Stats
-![Avinash's GitHub stats](https://github-readme-stats.vercel.app/api?username=avinashbankur&show_icons=true&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=avinashbankur&theme=radical)  
-
+🎓 Education
+🎓 Bearys Institute of Technology, Mangaluru
+B.E. Electronics & Communication Engineering  
+`2022 – 2026` • CGPA: 8.2/10
+Relevant Coursework:  
+`Digital Electronics` `VLSI Design` `Embedded Systems` `Communication Systems`  
+`Computer Networks` `Signals & Systems` `IoT`
 ---
-
-## 📫 Connect with Me
-- 💼 [LinkedIn](https://in.linkedin.com/in/avinash-bankur-664a712b5)  
-- 📧 avinashbankur48@gmail.com  
-- 🔗 [GitHub Projects](https://github.com/avinashbankur?tab=repositories)  
-- 📄 [Resume](https://drive.google.com/file/d/1-kywRLKiTxJz7bP3ztNGbEECulgbHV-u/view?usp=sharing)  
+📜 Certifications
+🏆 Analytics Vidhya — Building Data Analyst AI Agent
+🏆 Infosys SpringBoard — Python, C++, IoT 201
+🏆 Maven Silicon — Embedded Systems (C), VLSI SoC (Verilog)
+---
+🎯 Career Focus
+I'm currently looking for entry-level opportunities in:
+`RTL Design` • `VLSI Physical Design` • `Design Verification`  
+`ASIC` • `Python Development` • `AI/ML` • `Computer Vision` • `Embedded Systems`
+---
+<div align="center">
+🤝 Let's Connect
+<a href="https://www.linkedin.com/in/avinash-bankur-664a712b5">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
+</a>
+<a href="mailto:avinashbankur48@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://github.com/avinashbankur?tab=repositories">
+<img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github">
+</a>
+<br><br>
+⚡ Build. Verify. Optimize. Ship.
+⭐ Feel free to explore my repositories!
+</div>
